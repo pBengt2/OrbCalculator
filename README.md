@@ -5,7 +5,9 @@ The purpose of this program was to determine the optimal summoning strategy for 
 ## How Summoning works in Fire Emblem
 
 Summoning happens in sessions. You may summon up to 5 characters per a session. The orb cost is as followed.
+
 1: 5, 2: 4, 3: 4, 4: 4, 5: 3.
+
 Every summon has a chance at a 5star character. The chance is set per a summon session.
 Every 5 characters summoned without a 5star, the chance of 5star increases by .5. Every 5star summon resets the chance to it's base value.
 
